@@ -46,7 +46,7 @@
 <a href="https://auth.geeksforgeeks.org/user/1289dev/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1289dev/profile" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/dev1289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="dev1289" height="30" width="40" /></a>
 <a href="https://discord.gg/dev1289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dev1289" height="30" width="40" /></a>
-<a href="/https://hashnode.com/@dev1289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hashnode.com/@dev1289" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
