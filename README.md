@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Dev</h1>
 <h3 align="center">Passionate about DevOps and Cloud</h3>
 <img align="center" alt="DevOps" width="400" src="https://ik.imagekit.io/dev1289/devops.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1677940334946">
+<img align="center" alt="DevOps & Cloud" width="400" src="https://ik.imagekit.io/dev1289/devtopic.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677948950469">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev1289&label=Profile%20views&color=0e75b6&style=flat" alt="dev1289" /> </p>
 
