@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev1289" alt="dev1289" /></a> </p>
 
-<p align="left"> <a href="https://linkdin.com/in/dev1289" target="blank"><img src="https://img.shields.io/linkedin/follow/Dev1289?logo=linkedin&style=for-the-badge" alt="Dev1289" /></a> </p>
+<p align="left"> <a href="https://twitter.com/1289_dev" target="blank"><img src="https://img.shields.io/twitter/follow/1289_dev?logo=twitter&style=for-the-badge" alt="1289_dev" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [http://dev1289.com/](http://dev1289.com/)
 
