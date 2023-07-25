@@ -1,7 +1,7 @@
 [![MasterHead](https://ik.imagekit.io/dev1289/devbanner.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677939686361)](https://dev1289.com)
 
 <h1 align="center">Hi 👋, I'm Dev</h1>
-<h3 align="center">Passionate about DevOps and Cloud</h3>
+<h3 align="center">Passionate about AI, DevOps and Cloud</h3>
 <!--<img align="center" alt="DevOps" width="400" src="https://ik.imagekit.io/dev1289/devops.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1677940334946">-->
 <a href="https://www.linkedin.com/newsletters/devops-and-cloud-topics-7037087694040027136/"><img align="center" alt="DevOps & Cloud" width="900" src="https://ik.imagekit.io/dev1289/devtopic.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677948950469"></a>
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Dev1289](https://hashnode.com/@Dev1289)
 
-- 💬 Ask me about **DevOps and Cloud**
+- 💬 Ask me about **DevOps, Cloud and AI**
 
 - 📫 How to reach me **1289dev@gmail.com**
 
