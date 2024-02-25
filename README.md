@@ -1,4 +1,4 @@
-[![MasterHead](https://ik.imagekit.io/dev1289/devbanner.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677939686361)](https://dev1289.com)
+[![MasterHead](https://ik.imagekit.io/dev1289/Dev%20Git%20Banner.png?ik-sdk-version=javascript-1.4.3&updatedAt=1708863418291)](https://dev1289.com)
 
 <h1 align="center">Hi 👋, I'm Dev</h1>
 <h3 align="center">Passionate about AI, DevOps and Cloud</h3>
